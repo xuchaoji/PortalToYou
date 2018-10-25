@@ -1,0 +1,7 @@
+name: PortalToYou
+main: com.xuchaoji.portaltoyou.PortalToYou
+version: 1.0
+commands: 
+    py: 
+        description: main command for PortalToYou
+        usage: py
